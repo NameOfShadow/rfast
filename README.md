@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/rfast.svg)](https://crates.io/crates/rfast)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-blue.svg)](https://www.rust-lang.org)
+[![Rust](https://img.shields.io/badge/rust-1.90%2B-blue.svg)](https://www.rust-lang.org)
 
 **Run Rust files like scripts — instant caching, zero boilerplate, full dependency support.**
 
@@ -10,7 +10,7 @@
 
 ## 🎬 Demo
 
-![rfast --help](docs/demo.png)
+![rfast --help](https://raw.githubusercontent.com/NameOfShadow/rfast/main/docs/demo.png)
 
 ## ✨ Features
 
