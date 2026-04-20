@@ -1,0 +1,14 @@
+#!/usr/bin/env run-cargo-script
+//! ```cargo
+//! [dependencies]
+//! time = "0.1.25"
+//! colored = "2.0"
+//! ```
+
+extern crate time;
+use colored::*;
+
+fn main() {
+    println!("{}", "Hello from cargo-script code block!".blue());
+    println!("Current time: {}", time::now().rfc822z());
+}
