@@ -9,7 +9,7 @@ repository = "https://github.com/NameOfShadow/rfast"
 homepage = "https://github.com/NameOfShadow/rfast"
 documentation = "https://docs.rs/rfast"
 readme = "README.md"
-keywords = ["script", "runner", "cargo", "eval", "one-liner", "rust-script"]
+keywords = ["script", "runner", "cargo", "eval", "rust-script"]
 categories = ["command-line-utilities", "development-tools::build-utils"]
 
 [[bin]]
