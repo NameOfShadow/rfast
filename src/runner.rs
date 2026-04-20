@@ -132,8 +132,7 @@ pub fn new_script(path: &Path) -> Result<()> {
     }
     #[cfg(not(windows))]
     {
-        hint!("run it with   rfast {}", path.display());
-        hint!("  or directly ./{}", path.display());
+        hint!("run it with   rfast {}  or  ./{}", path.display(), path.display());
     }
     hint!("add a dep     rfast add <crate> {}", path.display());
     Ok(())

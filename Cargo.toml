@@ -2,7 +2,6 @@
 name = "rfast"
 version = "1.0.0"
 edition = "2024"
-rust-version = "1.70"
 description = "Run Rust files like scripts — instant caching, inline dependencies, zero boilerplate"
 license = "MIT"
 authors = ["NameOfShadow <0nameofshadow0@gmail.com>"]

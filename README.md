@@ -8,6 +8,10 @@
 
 `rfast` turns Rust into a scripting language. Write a `.rs` file, run it – no `cargo new`, no `Cargo.toml`, no waiting. Dependencies? Just declare them in a comment. One‑liners? `rfast -e 'println!("Hello")'` – with external crates and automatic caching. Perfect for quick scripts, build tools, data pipelines, and trying out libraries.
 
+## 🎬 Demo
+
+![rfast --help](docs/demo.png)
+
 ## ✨ Features
 
 - **Zero‑boilerplate scripts** – a single `.rs` file with `fn main()` is enough.
